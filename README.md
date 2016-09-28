@@ -1,3 +1,15 @@
+# RocketMoneyValueObject
+
+is a fork of sebastianbergmann/money, which has been abandoned.
+
+## Installation
+
+rocket-internet/money
+
+
+
+## Original Readme below:
+
 **This project has been abandoned.** It was only ever intended to be used as an example for PHPUnit features etc. and not for usage in production. I am sorry that I failed to make that clear. Please have a look at [moneyphp/money](https://github.com/moneyphp/money) instead.
 
 # Money
@@ -37,7 +49,7 @@ print $m->getConvertedAmount();
 The code above produces the output shown below:
 
     100
-    
+
     1.00
 
 #### Creating a Money object from a string value
