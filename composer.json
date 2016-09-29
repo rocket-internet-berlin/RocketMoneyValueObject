@@ -2,7 +2,7 @@
     "name": "rocket-internet/money-value-object",
     "description": "Value Object that represents a monetary value (using a currency's smallest unit)",
     "keywords": ["money"],
-    "homepage": "https://github.com/rocket-internet-berlin/ROCKETMONEYVALUEOBJECT",
+    "homepage": "https://github.com/rocket-internet-berlin/RocketMoneyValueObject",
     "license": "BSD-3-Clause",
     "authors": [
         {
