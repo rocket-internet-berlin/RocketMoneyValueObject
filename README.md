@@ -4,7 +4,13 @@ is a fork of sebastianbergmann/money, which has been abandoned.
 
 ## Installation
 
-rocket-internet/money-value-object
+    {
+        "require": {
+            "rocket-internet/money-value-object": "^1.0"
+        }
+    }
+
+
 
 
 
