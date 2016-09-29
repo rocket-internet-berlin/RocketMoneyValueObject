@@ -6,7 +6,7 @@ is a fork of sebastianbergmann/money, which has been abandoned.
 
     {
         "require": {
-            "rocket-internet/money-value-object": "^1.0"
+            "rocket-internet/money-value-object": "^1.0.*"
         }
     }
 
