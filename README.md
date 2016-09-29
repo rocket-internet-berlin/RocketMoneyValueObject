@@ -4,7 +4,7 @@ is a fork of sebastianbergmann/money, which has been abandoned.
 
 ## Installation
 
-rocket-internet/money
+rocket-internet/money-value-object
 
 
 
